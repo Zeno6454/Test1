@@ -5,7 +5,8 @@ color: red;
 h1:hover {
   color: green;
 }
-li {
-  font-size: 90px;
+li:hover {
+  font-size: 50px;
+  color: yellow;
 }
 
