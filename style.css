@@ -13,7 +13,8 @@ h3:hover {
   color: green;
 }
 html {
-  background-color: skyblue
+  background-color: skyblue;
+  font-family: 'Open Sans', sans-serif;
 }
 body {
   width: 600px;
