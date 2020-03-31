@@ -5,4 +5,7 @@ color: red;
 h1:hover {
   color: green;
 }
+li {
+  font-size: 16px;
+}
 
