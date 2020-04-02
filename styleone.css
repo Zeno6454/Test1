@@ -4,3 +4,7 @@ color: yellow;
 width: 500px;
 border: 1px solid black;
 }
+a:link {
+  color: skyblue;
+  width: 30px;
+}
