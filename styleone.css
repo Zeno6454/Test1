@@ -4,7 +4,6 @@ color: yellow;
 width: 500px;
 border: 1px solid black;
 }
-body { background-color: #ffffc9 }
 a:link { color: lime; width 1000px } /* unbesuchte Links */
 a:visited { color: purple} /* besuchte Links*/
 a:hover { font-weight: bold } /* Benutzer fährt mit der Maus darüber */
