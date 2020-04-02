@@ -7,3 +7,8 @@ border: 1px solid black;
 a:link {
   width: 100px;
 }
+body { background-color: #ffffc9 }
+a:link { color: blue } /* unbesuchte Links */
+a:visited { color: purple } /* besuchte Links*/
+a:hover { font-weight: bold } /* Benutzer fährt mit der Maus darüber */
+a:active { color: lime } /* aktive Links */
