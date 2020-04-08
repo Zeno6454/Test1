@@ -37,6 +37,6 @@ h4 {
 a:hover {
   color: lime;
 }
-a:link::before {
+a:visited::before {
   content: "×";
 }
