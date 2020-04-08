@@ -37,10 +37,13 @@ h4 {
 a:hover {
   color: lime;
 }
-p::selection {
+li::selection {
   color: lime;
   background-color: lime;
 }
 h3::selection {
+  background-color: lightgrey;
+}
+h1::selection {
   background-color: lightgrey;
 }
