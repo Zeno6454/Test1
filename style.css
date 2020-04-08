@@ -38,5 +38,5 @@ a:hover {
   color: lime;
 }
 a:link::before {
-  content: "►";
+  content: "×";
 }
