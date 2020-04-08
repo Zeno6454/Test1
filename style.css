@@ -34,3 +34,6 @@ li {
 h4 {
   text-align: center;
 }
+a:hover {
+  color: lime;
+}
