@@ -37,3 +37,6 @@ h4 {
 a:hover {
   color: lime;
 }
+a:link::before {
+  content: "►";
+}
