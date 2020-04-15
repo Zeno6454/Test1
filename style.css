@@ -4,6 +4,7 @@ color: red;
 }
 h1:hover {
   color: green;
+  cursor: pointer;
 }
 li:hover {
   font-size: 50px;
