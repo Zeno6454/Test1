@@ -53,3 +53,8 @@ h1::selection {
 a::selection {
   background-color: lightgrey;
 }
+
+#codelogo {
+  text-algin: center;
+  width: 5px;
+}
