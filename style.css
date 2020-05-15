@@ -53,8 +53,3 @@ h1::selection {
 a::selection {
   background-color: lightgrey;
 }
-
-.infozeno {
-  text-algin: center;
-  width: 5px;
-}
